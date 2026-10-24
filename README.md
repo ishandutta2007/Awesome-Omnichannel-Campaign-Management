@@ -1,6 +1,6 @@
 # Awesome-Omnichannel-Campaign-Management
 
-# Top Omnichannel Campaign Management Ecosystem
+## Top Omnichannel Campaign Management Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Self-Hosted Customer Journeys, Event-Triggered Messaging & Data Sovereignty*  
