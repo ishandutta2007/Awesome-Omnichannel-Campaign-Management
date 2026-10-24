@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Omnichannel-Campaign-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Omnichannel-Campaign-Management?style=flat-square&color=ffd700" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Omnichannel-Campaign-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Omnichannel-Campaign-Management?style=flat-square&color=ffd700" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Omnichannel-Campaign-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Omnichannel-Campaign-Management?style=flat-square&color=60a5fa" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Omnichannel-Campaign-Management/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Omnichannel-Campaign-Management?style=flat-square&color=34d399" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Omnichannel-Campaign-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-purple.svg?style=flat-square" alt="License: MIT" /></a>
@@ -88,79 +88,79 @@ Below is a detailed comparison of market-leading SaaS omnichannel campaign manag
 
 Self-hosting your campaign management stack guarantees **100% data sovereignty**, protects sensitive customer PII from external vendors, and eliminates exorbitant per-subscriber or per-MAU subscription markup.
 
-The projects below are **sorted in descending order by GitHub Star count**:
+The projects below are **sorted in descending order by GitHub Stars_Count**:
 
-### 1. [Novu](https://github.com/novuhq/novu) [![GitHub stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers)
+### 1. [Novu](https://github.com/novuhq/novu) [![GitHub_Stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers)
 - **Primary Focus**: 🌐 Open-Source Notification & Multi-Channel Workflow Orchestration
 - **Supported Channels**: 📧 Email, 📱 SMS, 🔔 Mobile Push, 🪟 In-App Notification Center, 💬 Chat (Slack, Discord, MS Teams, WhatsApp)
 - **Key Features**: Visual notification workflow builder, multi-channel digest engine, channel step conditions, time delays, and drop-in embeddable notification center components for React, Vue, Angular, and Vanilla JS.
 - **Tech Stack**: TypeScript, NestJS, Redis, MongoDB, Docker.
 - **Ideal For**: Engineering teams building in-app notification centers and unified programmatic cross-channel triggers across diverse providers.
 
-### 2. [Chatwoot](https://github.com/chatwoot/chatwoot) [![GitHub stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)
+### 2. [Chatwoot](https://github.com/chatwoot/chatwoot) [![GitHub_Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)
 - **Primary Focus**: 💬 Open-Source Customer Engagement Suite & Omnichannel Desk
 - **Supported Channels**: 🌐 Live Chat, 📧 Email, 💬 WhatsApp Business, 📱 SMS, 📘 Facebook Messenger, 📸 Instagram, 🐦 Twitter/X, ✈️ Telegram
 - **Key Features**: Omnichannel shared inbox, automated conversation routing, canned responses, proactive live-chat campaigns, custom attribute tracking, and webhook triggers.
 - **Tech Stack**: Ruby on Rails, Vue.js, PostgreSQL, Redis.
 - **Ideal For**: Teams needing an open-source alternative to Intercom, Zendesk, and Drift combining inbound conversational support with proactive engagement campaigns.
 
-### 3. [Listmonk](https://github.com/knadh/listmonk) [![GitHub stars](https://img.shields.io/github/stars/knadh/listmonk?style=social&color=white)](https://github.com/knadh/listmonk/stargazers)
+### 3. [Listmonk](https://github.com/knadh/listmonk) [![GitHub_Stars](https://img.shields.io/github/stars/knadh/listmonk?style=social&color=white)](https://github.com/knadh/listmonk/stargazers)
 - **Primary Focus**: 🚀 High-Performance Self-Hosted Newsletter, Mailing & Transactional Messaging Manager
 - **Supported Channels**: 📧 Email, 📱 SMS, 💬 WhatsApp / Telegram / Custom HTTP Messengers
 - **Key Features**: Capable of sending tens of thousands of messages per minute with tiny CPU and memory footprints. Features dynamic segmentation with SQL expressions, transactional API triggers, multi-threaded sending queues, and subscriber self-service portals.
 - **Tech Stack**: Go (Golang), PostgreSQL, Vue.js.
 - **Ideal For**: High-throughput message delivery to millions of subscribers on minimal self-hosted infrastructure.
 
-### 4. [Mautic](https://github.com/mautic/mautic) [![GitHub stars](https://img.shields.io/github/stars/mautic/mautic?style=social&color=white)](https://github.com/mautic/mautic/stargazers)
+### 4. [Mautic](https://github.com/mautic/mautic) [![GitHub_Stars](https://img.shields.io/github/stars/mautic/mautic?style=social&color=white)](https://github.com/mautic/mautic/stargazers)
 - **Primary Focus**: 🏛️ Veteran Open-Source Marketing Automation Suite (GPL-3.0)
 - **Supported Channels**: 📧 Email, 📱 SMS, 🌐 Web Push, 📄 Dynamic Web Content, 🪟 Popups & Forms
 - **Key Features**: Mature drag-and-drop campaign builder, lead scoring, contact lifecycle staging, automated drip nurturing, landing pages, asset tracking, and extensive CRM plugin integrations.
 - **Tech Stack**: PHP, Symfony, MySQL/MariaDB, Doctrine.
 - **Ideal For**: Organizations needing a fully-featured, community-governed alternative to HubSpot, Marketo, or Salesforce Pardot with no artificial contact caps.
 
-### 5. [Plunk](https://github.com/useplunk/plunk) [![GitHub stars](https://img.shields.io/github/stars/useplunk/plunk?style=social&color=white)](https://github.com/useplunk/plunk/stargazers)
+### 5. [Plunk](https://github.com/useplunk/plunk) [![GitHub_Stars](https://img.shields.io/github/stars/useplunk/plunk?style=social&color=white)](https://github.com/useplunk/plunk/stargazers)
 - **Primary Focus**: 📨 Modern Open-Source Email Marketing & Automation Platform
 - **Supported Channels**: 📧 Email (Transactional, Broadcasts, and Automated Workflows)
 - **Key Features**: Visual drag-and-drop workflow canvas, event-triggered action sequences, delay steps, contact filtering, and direct routing through your own AWS SES account for rock-bottom delivery pricing ($0.10 per 1,000 emails).
 - **Tech Stack**: TypeScript, Node.js, Prisma, PostgreSQL, Next.js.
 - **Ideal For**: SaaS founders and developers wanting a sleek, self-hosted Customer.io email workflow alternative with native AWS SES infrastructure.
 
-### 6. [erxes](https://github.com/erxes/erxes) [![GitHub stars](https://img.shields.io/github/stars/erxes/erxes?style=social&color=white)](https://github.com/erxes/erxes/stargazers)
+### 6. [erxes](https://github.com/erxes/erxes) [![GitHub_Stars](https://img.shields.io/github/stars/erxes/erxes?style=social&color=white)](https://github.com/erxes/erxes/stargazers)
 - **Primary Focus**: 🏢 Open-Source Experience Operating System (XOS) & Growth Suite
 - **Supported Channels**: 📧 Email, 📱 SMS, 🌐 Live Chat, 🪟 In-App Forms, 💬 Social Messengers
 - **Key Features**: All-in-one suite combining CRM, omnichannel marketing automation, pipeline management, team inbox, lead capture widgets, and modular plugin architecture.
 - **Tech Stack**: TypeScript, Node.js, React, GraphQL, MongoDB, Redis, RabbitMQ.
 - **Ideal For**: Businesses wanting a single modular open-source platform replacing both HubSpot CRM and marketing automation.
 
-### 7. [Dittofeed](https://github.com/dittofeed/dittofeed) [![GitHub stars](https://img.shields.io/github/stars/dittofeed/dittofeed?style=social&color=white)](https://github.com/dittofeed/dittofeed/stargazers)
+### 7. [Dittofeed](https://github.com/dittofeed/dittofeed) [![GitHub_Stars](https://img.shields.io/github/stars/dittofeed/dittofeed?style=social&color=white)](https://github.com/dittofeed/dittofeed/stargazers)
 - **Primary Focus**: ⚡ Open-Source Customer Engagement & Event-Driven Journey Engine (Customer.io Alternative)
 - **Supported Channels**: 📧 Email, 📱 SMS, 🔔 Mobile Push, 💬 WhatsApp, 🪝 Custom Webhooks
 - **Key Features**: Segment-driven automated journeys built in a visual editor; real-time event segmentation computed directly on your own ClickHouse event database. Durable execution powered by **Temporal**, ensuring long-running multi-week customer journeys never drop state.
 - **Tech Stack**: TypeScript, Node.js, ClickHouse (analytics/segments), PostgreSQL (app state), Temporal (durable workflows).
 - **Ideal For**: Engineering-led organizations looking for a self-hosted Customer.io alternative where all user PII and event clickstreams remain strictly on-premise.
 
-### 8. [Laudspeaker](https://github.com/laudspeaker/laudspeaker) [![GitHub stars](https://img.shields.io/github/stars/laudspeaker/laudspeaker?style=social&color=white)](https://github.com/laudspeaker/laudspeaker/stargazers)
+### 8. [Laudspeaker](https://github.com/laudspeaker/laudspeaker) [![GitHub_Stars](https://img.shields.io/github/stars/laudspeaker/laudspeaker?style=social&color=white)](https://github.com/laudspeaker/laudspeaker/stargazers)
 - **Primary Focus**: 📢 Open-Source Braze & Customer.io Alternative (YC Backed)
 - **Supported Channels**: 📧 Email, 📱 SMS, 🔔 Firebase Mobile Push, 💬 Slack notifications
 - **Key Features**: Visual no-code journey builder with branching, time windows, and delays. Native **PostHog plugin** for immediate integration with product analytics, database sync (Postgres, CSV), and user segment condition builders.
 - **Tech Stack**: TypeScript, Node.js, Express, PostgreSQL, Redis.
 - **Ideal For**: Product and growth teams using PostHog who want automated multi-step user onboarding and drip campaigns without per-contact pricing.
 
-### 9. [Keila](https://github.com/pentacent/keila) [![GitHub stars](https://img.shields.io/github/stars/pentacent/keila?style=social&color=white)](https://github.com/pentacent/keila/stargazers)
+### 9. [Keila](https://github.com/pentacent/keila) [![GitHub_Stars](https://img.shields.io/github/stars/pentacent/keila?style=social&color=white)](https://github.com/pentacent/keila/stargazers)
 - **Primary Focus**: 🔒 Privacy-First Self-Hosted Newsletter & Campaign Tool
 - **Supported Channels**: 📧 Email
 - **Key Features**: Strict GDPR compliance, clean Markdown/Block editor, customizable subscription widgets, advanced contact segmentation using JSON queries, and detailed campaign delivery metrics.
 - **Tech Stack**: Elixir, Phoenix Framework, PostgreSQL.
 - **Ideal For**: Developers and privacy-conscious organizations wanting an independent, reliable newsletter tool without third-party tracking pixels.
 
-### 10. [SendPortal](https://github.com/mettle/sendportal) [![GitHub stars](https://img.shields.io/github/stars/mettle/sendportal?style=social&color=white)](https://github.com/mettle/sendportal/stargazers)
+### 10. [SendPortal](https://github.com/mettle/sendportal) [![GitHub_Stars](https://img.shields.io/github/stars/mettle/sendportal?style=social&color=white)](https://github.com/mettle/sendportal/stargazers)
 - **Primary Focus**: 📬 Self-Hosted Email Marketing Automation
 - **Supported Channels**: 📧 Email
 - **Key Features**: Multi-tenant workspace management, subscriber tag segmentation, automated email campaign delivery, and native integrations with transactional SMTP/API providers (AWS SES, SendGrid, Mailgun, Postmark, Mailjet).
 - **Tech Stack**: PHP, Laravel, MySQL / PostgreSQL, Vue.js.
 - **Ideal For**: Agencies and marketing teams running multiple subscriber lists who want to manage self-hosted campaigns with low-cost SMTP providers.
 
-### 11. [Parcelvoy](https://github.com/parcelvoy/platform) [![GitHub stars](https://img.shields.io/github/stars/parcelvoy/platform?style=social&color=white)](https://github.com/parcelvoy/platform/stargazers)
+### 11. [Parcelvoy](https://github.com/parcelvoy/platform) [![GitHub_Stars](https://img.shields.io/github/stars/parcelvoy/platform?style=social&color=white)](https://github.com/parcelvoy/platform/stargazers)
 - **Primary Focus**: 📦 Open-Source Multi-Channel Marketing Automation (Braze Alternative)
 - **Supported Channels**: 📧 Email, 📱 SMS, 🔔 Mobile Push, 🪝 Webhooks
 - **Key Features**: Visual flow builder for complex customer journeys, event tracking, real-time message personalization, and multi-provider delivery routing.
